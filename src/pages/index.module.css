@@ -8,6 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  color: var(--hero-title-color); /* 제목 색상 추가 */
 }
 
 @media screen and (max-width: 996px) {
