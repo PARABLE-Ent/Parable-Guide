@@ -1,0 +1,8 @@
+{
+  "label": "xsens",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "xsens 장비 설정 및 사용 방법입니다."
+  }
+}

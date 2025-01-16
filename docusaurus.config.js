@@ -12,13 +12,13 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Parable-Guide',
   tagline: 'Parable 3D Pipeline Guide Document',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Parable_Logo_Symbol.svg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Parable-Guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -78,7 +78,7 @@ const config = {
       navbar: {
         title: 'Parable-Guide',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Parable Logo',
           src: 'img/Parable_Logo_Symbol.svg',
         },
         items: [
@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           // Sidebar에 Github 링크 띄우는 것

@@ -8,7 +8,13 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  color: var(--hero-title-color); /* 제목 색상 추가 */
+  color: #000531; /* 텍스트 색상 변수 사용 */
+  background-color: #d3edfb; /* 원하는 색상으로 변경 */
+}
+
+[data-theme='dark'] .heroBanner {
+  color: #ffffff; /* 텍스트 색상 변수 사용 */
+  background-color: #43666e; /* Dark mode 색상 */
 }
 
 @media screen and (max-width: 996px) {

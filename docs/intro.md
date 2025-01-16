@@ -2,9 +2,10 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Parable Guide Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+패러블엔터테인먼트의 3D 기반 프로젝트에 대한 전사 가이드입니다. <br/>
+모든 직원은 가이드를 따라 업무를 진행하여야 합니다.
 
 ## Getting Started
 

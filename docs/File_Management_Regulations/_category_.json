@@ -1,0 +1,8 @@
+{
+  "label": "파일관리",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "내부 파일 관리 규정"
+  }
+}
