@@ -28,3 +28,24 @@ Vicon 카메라는 **예열 시간**이 필요합니다. 카메라 캘리브레�
 ### 카메라 캘리브레이션
 카메라 보정 전, **카메라 마스킹**을 시작해야 합니다. <br/>
 캡처 볼륨에서 원치 않는 반사를 제거하여야 카메라는 반사를 마커로 인식하지 않습니다.
+
+
+<div class="sketchfab-embed-wrapper">
+    <iframe
+        title="Vicon_ Suit_ Guide"
+        frameborder="0"
+        allowfullscreen mozallowfullscreen="true"
+        webkitallowfullscreen="true"
+        allow="autoplay; fullscreen; xr-spatial-tracking"
+        xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="960" height="540"
+        src="https://sketchfab.com/models/e0204db61695449da1b2c4f5af59f50f/embed">
+    </iframe>
+    <p style={{ fontsize: '13px', fontweight: 'normal', margin: '5px', color: '#4A4A4A' }} >
+        <a
+        href="https://sketchfab.com/3d-models/vicon--suit--guide-e0204db61695449da1b2c4f5af59f50f?utm_medium=embed&utm_campaign=share-popup&utm_content=e0204db61695449da1b2c4f5af59f50f"
+        target="_blank"
+        rel="nofollow"
+        style={{ fontweight: 'bold', color: '#1CAAD9' }} >    
+        </a>
+    </p>
+</div>
