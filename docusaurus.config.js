@@ -88,7 +88,8 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // BLog 사용할 때
+          // {to: '/blog', label: 'Blog', position: 'left'},
           // Sidebar에 Github 링크 띄우는 것
           // {
           //   href: 'https://github.com/facebook/docusaurus',

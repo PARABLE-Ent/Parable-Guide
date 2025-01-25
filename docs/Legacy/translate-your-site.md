@@ -1,10 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 10
 ---
 
 # Translate your site
-
-Let's translate `docs/intro.md` to French.
 
 ## Configure i18n
 
@@ -70,8 +68,6 @@ export default {
 ```
 
 The locale dropdown now appears in your navbar:
-
-![Locale Dropdown](./img/localeDropdown.png)
 
 ## Build your localized site
 
