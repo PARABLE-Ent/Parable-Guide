@@ -28,3 +28,14 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.customTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+.customTable td {
+  width: 100px;
+  height: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}

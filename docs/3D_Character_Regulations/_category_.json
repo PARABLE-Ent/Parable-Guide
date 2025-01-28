@@ -2,6 +2,7 @@
   "label": "3D 모델링 - 캐릭터",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "캐릭터 모델링 규정"
   }
 }
