@@ -147,10 +147,6 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },
-      tableOfContents: {
-        minHeadingLevel: 2,
-        maxHeadingLevel: 5,
       }
     }),
 
